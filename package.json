@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "contracts",
+    "name": "0x-smart-contracts",
     "version": "2.1.4",
     "description": "Smart contract components of 0x protocol",
     "main": "index.js",
